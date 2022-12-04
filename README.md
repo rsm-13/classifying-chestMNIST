@@ -2,9 +2,10 @@
 Using the MNIST dataset to experiment with CNN and PyTorch
 
 - [About MNIST](https://github.com/MedMNIST/MedMNIST)
+- View Jupyter Notebook for Code
 
 ## About:
-#### **Purpose** Make a pipeline to predict the 14 classes from the x-rays of the chest MNIST dataset
+#### **Purpose:** Make a pipeline to predict the 14 classes from the x-rays of the chest MNIST dataset
 <hr>
 
 ### Dataset: https://medmnist.com/
