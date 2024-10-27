@@ -3,6 +3,7 @@ Using the MNIST dataset to experiment with CNN and PyTorch
 
 - [About MNIST](https://github.com/MedMNIST/MedMNIST)
 - View Jupyter Notebook for Code
+- Read Research Paper (published in NextGen Research Institute July Journal) [click here](https://rsm-13.github.io/radha-m-portfolio/assets/CNN_chestXray_final.pdf?)
 
 ## About:
 #### **Purpose:** Make a pipeline to predict the 14 classes from the x-rays of the chest MNIST dataset
